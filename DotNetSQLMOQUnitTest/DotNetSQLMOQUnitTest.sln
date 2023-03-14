@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DotNetSQLMOQApp", "DotNetSQLMOQUnitTest\DotNetSQLMOQApp.vbproj", "{FB269C10-E2CC-4FDE-B2B7-C4563B776349}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DotNetSQLMOQTest", "DotNetSQLMOQTest\DotNetSQLMOQTest.vbproj", "{E0AE7D98-C712-4987-A62F-3774A22410A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB269C10-E2CC-4FDE-B2B7-C4563B776349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB269C10-E2CC-4FDE-B2B7-C4563B776349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB269C10-E2CC-4FDE-B2B7-C4563B776349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB269C10-E2CC-4FDE-B2B7-C4563B776349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0AE7D98-C712-4987-A62F-3774A22410A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AE7D98-C712-4987-A62F-3774A22410A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AE7D98-C712-4987-A62F-3774A22410A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AE7D98-C712-4987-A62F-3774A22410A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40DBAA3C-0EB2-4084-A747-7F1DE7235513}
+	EndGlobalSection
+EndGlobal
