@@ -32,3 +32,7 @@ C:\Users\shaff\OneDrive\Documents\GitHub\home\CityInfo\CityInfo.API\obj\Debug\ne
 C:\Users\shaff\OneDrive\Documents\GitHub\home\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.genruntimeconfig.cache
 C:\Users\shaff\OneDrive\Documents\GitHub\home\CityInfo\CityInfo.API\obj\Debug\net8.0\ref\CityInfo.API.dll
 C:\Users\shaff\OneDrive\Documents\GitHub\home\CityInfo\CityInfo.API\bin\Debug\net8.0\creating-the-api-and-returning-resources-slides.pdf
+C:\Users\shaff\OneDrive\Documents\GitHub\home\CityInfo\CityInfo.API\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\shaff\OneDrive\Documents\GitHub\home\CityInfo\CityInfo.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\shaff\OneDrive\Documents\GitHub\home\CityInfo\CityInfo.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\shaff\OneDrive\Documents\GitHub\home\CityInfo\CityInfo.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

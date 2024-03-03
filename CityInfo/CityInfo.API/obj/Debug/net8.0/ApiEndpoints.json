@@ -51,6 +51,91 @@
   },
   {
     "ContainingType": "CityInfo.API.Controllers.PointsOfInterestController",
+    "Method": "CreatePointOfInterest",
+    "RelativePath": "api/cities/{cityId}/pointsofinterest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pointOfInterest",
+        "Type": "CityInfo.API.Model.PointOfInterestForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CityInfo.API.Model.PointOfInterestDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CityInfo.API.Controllers.PointsOfInterestController",
+    "Method": "UpdatePointOfInterest",
+    "RelativePath": "api/cities/{cityId}/pointsofinterest/{pointofinterestid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pointofinterestid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pointOfInterest",
+        "Type": "CityInfo.API.Model.PointOfInterestForUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CityInfo.API.Controllers.PointsOfInterestController",
+    "Method": "PartiallyUpdatePointOfInterest",
+    "RelativePath": "api/cities/{cityId}/pointsofinterest/{pointofinterestid}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pointofinterestid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "patchDocument",
+        "Type": "Microsoft.AspNetCore.JsonPatch.Operations.Operation[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CityInfo.API.Controllers.PointsOfInterestController",
     "Method": "GetPointOfInterest",
     "RelativePath": "api/cities/{cityId}/pointsofinterest/{pointOfInterestId}",
     "HttpMethod": "GET",
@@ -83,6 +168,27 @@
     ]
   },
   {
+    "ContainingType": "CityInfo.API.Controllers.PointsOfInterestController",
+    "Method": "DeletePointOfInterest",
+    "RelativePath": "api/cities/{cityId}/pointsofinterest/{pointOfInterestId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pointOfInterestId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CityInfo.API.Controllers.CitiesController",
     "Method": "GetCity",
     "RelativePath": "api/cities/{id}",
@@ -109,6 +215,22 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "CityInfo.API.Controllers.FilesController",
+    "Method": "CreateFile",
+    "RelativePath": "api/files",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "CityInfo.API.Controllers.FilesController",
