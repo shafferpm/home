@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\cityinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\cityinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,8 +27,36 @@
       "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\dbcontexts\\cityinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\dbcontexts\\cityinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\entities\\pointofinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\entities\\pointofinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\migrations\\20240309145132_cityinfodbinitialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\migrations\\20240309145132_cityinfodbinitialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\model\\pointofinterestforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\model\\pointofinterestforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\model\\pointofinterestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\model\\pointofinterestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\model\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\model\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\services\\cloudmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,28 +79,20 @@
       "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\citiesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\model\\pointofinterestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\model\\pointofinterestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\model\\pointofinterestforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\model\\pointofinterestforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\model\\pointofinterestforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\model\\pointofinterestforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\cityinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\cityinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\migrations\\20240309192923_initialdataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\migrations\\20240309192923_initialdataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\cityinfo\\cityinfo.api\\migrations\\20240309191211_cityinfodbaddpoidescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E21B0-9E65-4AFE-9EEC-A4A35E116D0C}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\migrations\\20240309191211_cityinfodbaddpoidescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +114,115 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240309192923_InitialDataSeed.cs",
+              "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Migrations\\20240309192923_InitialDataSeed.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Migrations\\20240309192923_InitialDataSeed.cs",
+              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Migrations\\20240309192923_InitialDataSeed.cs",
+              "RelativeToolTip": "CityInfo.API\\Migrations\\20240309192923_InitialDataSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T19:29:23.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240309191211_CityInfoDBAddPOIDescription.cs",
+              "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Migrations\\20240309191211_CityInfoDBAddPOIDescription.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Migrations\\20240309191211_CityInfoDBAddPOIDescription.cs",
+              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Migrations\\20240309191211_CityInfoDBAddPOIDescription.cs",
+              "RelativeToolTip": "CityInfo.API\\Migrations\\20240309191211_CityInfoDBAddPOIDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T19:12:11.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240309145132_CityInfoDBInitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Migrations\\20240309145132_CityInfoDBInitialMigration.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Migrations\\20240309145132_CityInfoDBInitialMigration.cs",
+              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Migrations\\20240309145132_CityInfoDBInitialMigration.cs",
+              "RelativeToolTip": "CityInfo.API\\Migrations\\20240309145132_CityInfoDBInitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:51:32.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CityInfoContext.cs",
+              "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\DbContexts\\CityInfoContext.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\DbContexts\\CityInfoContext.cs",
+              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\DbContexts\\CityInfoContext.cs",
+              "RelativeToolTip": "CityInfo.API\\DbContexts\\CityInfoContext.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:19:16.997Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CityInfo.API",
+              "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+              "RelativeDocumentMoniker": "CityInfo.API\\CityInfo.API.csproj",
+              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+              "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-03T01:33:24.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PointOfInterest.cs",
+              "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Entities\\PointOfInterest.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Entities\\PointOfInterest.cs",
+              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Entities\\PointOfInterest.cs",
+              "RelativeToolTip": "CityInfo.API\\Entities\\PointOfInterest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:52:20.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Program.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
+              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Program.cs",
+              "RelativeToolTip": "CityInfo.API\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:16:03.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CityDto.cs",
+              "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Model\\CityDto.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Model\\CityDto.cs",
+              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Model\\CityDto.cs",
+              "RelativeToolTip": "CityInfo.API\\Model\\CityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:48:52.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Entities\\City.cs",
+              "RelativeToolTip": "CityInfo.API\\Entities\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:45:20.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.production.json",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\appsettings.production.json",
               "RelativeDocumentMoniker": "CityInfo.API\\appsettings.production.json",
@@ -94,12 +230,11 @@
               "RelativeToolTip": "CityInfo.API\\appsettings.production.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-06T02:00:38.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T02:00:38.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "PointsOfInterestController.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
@@ -107,12 +242,11 @@
               "RelativeToolTip": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
               "ViewState": "AQIAAJ8AAAAAAAAAAAAmwLIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T04:13:59.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T04:13:59.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "PointOfInterestDto.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Model\\PointOfInterestDto.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Model\\PointOfInterestDto.cs",
@@ -120,12 +254,11 @@
               "RelativeToolTip": "CityInfo.API\\Model\\PointOfInterestDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T03:59:11.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T03:59:11.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "CitiesDataStore.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\CitiesDataStore.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\CitiesDataStore.cs",
@@ -133,51 +266,35 @@
               "RelativeToolTip": "CityInfo.API\\CitiesDataStore.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T03:26:35.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T03:26:35.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "CitiesController.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\CitiesController.cs",
               "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
               "RelativeToolTip": "CityInfo.API\\Controllers\\CitiesController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T01:52:45.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T01:52:45.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CityInfo.API\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "CityInfo.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-16T02:22:48.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T02:22:48.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Program.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
-              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Program.cs",
-              "RelativeToolTip": "CityInfo.API\\Program.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAAC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T01:16:03.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\appsettings.json",
               "RelativeDocumentMoniker": "CityInfo.API\\appsettings.json",
@@ -185,12 +302,11 @@
               "RelativeToolTip": "CityInfo.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-03T01:14:16.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T01:14:16.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "CloudMailService.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Services\\CloudMailService.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Services\\CloudMailService.cs",
@@ -198,25 +314,23 @@
               "RelativeToolTip": "CityInfo.API\\Services\\CloudMailService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T01:23:19.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T01:23:19.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CityInfo.API.csproj",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
               "RelativeDocumentMoniker": "CityInfo.API\\CityInfo.API.csproj",
               "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
               "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-03T01:33:18.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T01:33:18.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "LocalMailService.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Services\\LocalMailService.cs",
@@ -224,12 +338,11 @@
               "RelativeToolTip": "CityInfo.API\\Services\\LocalMailService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T22:16:15.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T22:16:15.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "FilesController.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Controllers\\FilesController.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\FilesController.cs",
@@ -237,12 +350,11 @@
               "RelativeToolTip": "CityInfo.API\\Controllers\\FilesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T05:02:01.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T05:02:01.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "PointOfInterestForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Model\\PointOfInterestForCreationDto.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Model\\PointOfInterestForCreationDto.cs",
@@ -250,25 +362,24 @@
               "RelativeToolTip": "CityInfo.API\\Model\\PointOfInterestForCreationDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:35:12.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T18:35:12.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CityInfo.API\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\appsettings.Development.json",
               "RelativeToolTip": "CityInfo.API\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-05T03:19:09.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "PointOfInterestForUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\Model\\PointOfInterestForUpdateDto.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Model\\PointOfInterestForUpdateDto.cs",
@@ -276,20 +387,7 @@
               "RelativeToolTip": "CityInfo.API\\Model\\PointOfInterestForUpdateDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T19:43:46.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CityInfo.API",
-              "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
-              "RelativeDocumentMoniker": "CityInfo.API\\CityInfo.API.csproj",
-              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
-              "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-03T01:33:24.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T19:43:46.861Z"
             }
           ]
         }
