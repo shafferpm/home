@@ -1,0 +1,16 @@
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\bin\Debug\net6.0\PublisherData.deps.json
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\bin\Debug\net6.0\PublisherData.dll
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\bin\Debug\net6.0\PublisherData.pdb
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\obj\Debug\net6.0\PublisherData.csproj.AssemblyReference.cache
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\obj\Debug\net6.0\PublisherData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfoInputs.cache
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfo.cs
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\obj\Debug\net6.0\PublisherData.csproj.CoreCompileInputs.cache
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\obj\Debug\net6.0\PublisherData.sourcelink.json
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\obj\Debug\net6.0\PublisherData.dll
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\obj\Debug\net6.0\refint\PublisherData.dll
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\obj\Debug\net6.0\PublisherData.pdb
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\obj\Debug\net6.0\ref\PublisherData.dll
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\bin\Debug\net6.0\PublisherDomain.dll
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\bin\Debug\net6.0\PublisherDomain.pdb
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherData\obj\Debug\net6.0\Publishe.C9B3FD54.Up2Date

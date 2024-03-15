@@ -735,20 +735,6 @@
           }
         }
       },
-      "PublisherData/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
-          "PublisherDomain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/PublisherData.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PublisherData.dll": {}
-        }
-      },
       "PublisherDomain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1923,11 +1909,6 @@
         "version.txt"
       ]
     },
-    "PublisherData/1.0.0": {
-      "type": "project",
-      "path": "../PublisherData/PublisherData.csproj",
-      "msbuildProject": "../PublisherData/PublisherData.csproj"
-    },
     "PublisherDomain/1.0.0": {
       "type": "project",
       "path": "../PublisherDomain/PublisherDomain.csproj",
@@ -1936,7 +1917,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "PublisherData >= 1.0.0",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.1",
       "PublisherDomain >= 1.0.0"
     ]
   },
@@ -1947,11 +1928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherConsole\\PublisherConsole.csproj",
-      "projectName": "PublisherConsole",
-      "projectPath": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherConsole\\PublisherConsole.csproj",
+      "projectUniqueName": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherData\\PublisherData.csproj",
+      "projectName": "PublisherData",
+      "projectPath": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherData\\PublisherData.csproj",
       "packagesPath": "C:\\Users\\shaff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherConsole\\obj\\",
+      "outputPath": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1973,9 +1954,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherData\\PublisherData.csproj": {
-              "projectPath": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherData\\PublisherData.csproj"
-            },
             "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherDomain\\PublisherDomain.csproj": {
               "projectPath": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherDomain\\PublisherDomain.csproj"
             }
@@ -1996,6 +1974,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[6.0.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
