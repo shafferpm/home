@@ -1,0 +1,12 @@
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\bin\Debug\net6.0\PublisherDomain.deps.json
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\bin\Debug\net6.0\PublisherDomain.dll
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\bin\Debug\net6.0\PublisherDomain.pdb
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\obj\Debug\net6.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\obj\Debug\net6.0\PublisherDomain.AssemblyInfoInputs.cache
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\obj\Debug\net6.0\PublisherDomain.AssemblyInfo.cs
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\obj\Debug\net6.0\PublisherDomain.csproj.CoreCompileInputs.cache
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\obj\Debug\net6.0\PublisherDomain.sourcelink.json
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\obj\Debug\net6.0\PublisherDomain.dll
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\obj\Debug\net6.0\refint\PublisherDomain.dll
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\obj\Debug\net6.0\PublisherDomain.pdb
+C:\Users\shaff\OneDrive\Documents\GitHub\home\PublisherApp\PublisherDomain\obj\Debug\net6.0\ref\PublisherDomain.dll
