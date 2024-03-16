@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{808FAB6D-C534-4A7C-8054-20E32E2D381C}|PublisherConsole\\PublisherConsole.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\publisherapp\\publisherconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808FAB6D-C534-4A7C-8054-20E32E2D381C}|PublisherConsole\\PublisherConsole.csproj|solutionrelative:publisherconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B467565F-FDCE-4BB6-99BA-107F5472F304}|PublisherData\\PublisherData.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\publisherapp\\publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B467565F-FDCE-4BB6-99BA-107F5472F304}|PublisherData\\PublisherData.csproj|solutionrelative:publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\publisherapp\\publisherdomain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|solutionrelative:publisherdomain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -14,20 +22,12 @@
       "RelativeMoniker": "D:0:0:{808FAB6D-C534-4A7C-8054-20E32E2D381C}|PublisherConsole\\PublisherConsole.csproj|solutionrelative:publisherconsole\\publisherconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{808FAB6D-C534-4A7C-8054-20E32E2D381C}|PublisherConsole\\PublisherConsole.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\publisherapp\\publisherconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{808FAB6D-C534-4A7C-8054-20E32E2D381C}|PublisherConsole\\PublisherConsole.csproj|solutionrelative:publisherconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B467565F-FDCE-4BB6-99BA-107F5472F304}|PublisherData\\PublisherData.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\publisherapp\\publisherdata\\publisherdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B467565F-FDCE-4BB6-99BA-107F5472F304}|PublisherData\\PublisherData.csproj|solutionrelative:publisherdata\\publisherdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\publisherapp\\publisherdomain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|solutionrelative:publisherdomain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B467565F-FDCE-4BB6-99BA-107F5472F304}|PublisherData\\PublisherData.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\publisherapp\\publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B467565F-FDCE-4BB6-99BA-107F5472F304}|PublisherData\\PublisherData.csproj|solutionrelative:publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|c:\\users\\shaff\\onedrive\\documents\\github\\home\\publisherapp\\publisherdomain\\publisherdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -41,11 +41,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherDomain\\Book.cs",
               "RelativeDocumentMoniker": "PublisherDomain\\Book.cs",
@@ -67,30 +67,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "dbo.Books [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PubDatabase/True/SqlTable/dbo.Books.sql",
               "ToolTip": "dbo.Books [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-15T20:33:21.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T20:33:21.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PublisherData",
+              "DocumentIndex": 5,
+              "Title": "PublisherData.csproj",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherData\\PublisherData.csproj",
               "RelativeDocumentMoniker": "PublisherData\\PublisherData.csproj",
               "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherData\\PublisherData.csproj",
               "RelativeToolTip": "PublisherData\\PublisherData.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-15T19:47:10.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T19:47:10.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "PubContext.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherData\\PubContext.cs",
               "RelativeDocumentMoniker": "PublisherData\\PubContext.cs",
@@ -103,33 +101,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherConsole\\Program.cs",
               "RelativeDocumentMoniker": "PublisherConsole\\Program.cs",
               "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherConsole\\Program.cs",
               "RelativeToolTip": "PublisherConsole\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T19:29:16.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PublisherConsole",
+              "DocumentIndex": 4,
+              "Title": "PublisherConsole.csproj",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherConsole\\PublisherConsole.csproj",
               "RelativeDocumentMoniker": "PublisherConsole\\PublisherConsole.csproj",
               "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherConsole\\PublisherConsole.csproj",
               "RelativeToolTip": "PublisherConsole\\PublisherConsole.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-15T19:28:43.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T19:28:43.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherDomain\\Author.cs",
               "RelativeDocumentMoniker": "PublisherDomain\\Author.cs",
@@ -137,21 +134,19 @@
               "RelativeToolTip": "PublisherDomain\\Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T19:28:27.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T19:28:27.789Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PublisherDomain",
+              "Title": "PublisherDomain.csproj",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherDomain\\PublisherDomain.csproj",
               "RelativeDocumentMoniker": "PublisherDomain\\PublisherDomain.csproj",
               "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherDomain\\PublisherDomain.csproj",
               "RelativeToolTip": "PublisherDomain\\PublisherDomain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-15T19:27:36.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T19:27:36.041Z"
             }
           ]
         }
