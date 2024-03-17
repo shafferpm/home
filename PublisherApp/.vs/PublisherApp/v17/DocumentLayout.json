@@ -54,8 +54,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T19:28:29.413Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "PublisherData\\PubContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T19:32:56.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T19:32:56.965Z"
             },
             {
               "$type": "Document",
@@ -105,9 +103,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherConsole\\Program.cs",
               "RelativeDocumentMoniker": "PublisherConsole\\Program.cs",
-              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherConsole\\Program.cs",
-              "RelativeToolTip": "PublisherConsole\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAZAAAA",
+              "ToolTip": "C:\\Users\\shaff\\OneDrive\\Documents\\GitHub\\home\\PublisherApp\\PublisherConsole\\Program.cs*",
+              "RelativeToolTip": "PublisherConsole\\Program.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAvwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T19:29:16.124Z",
               "EditorCaption": ""

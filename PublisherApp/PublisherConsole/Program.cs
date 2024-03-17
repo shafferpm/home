@@ -13,13 +13,143 @@ PubContext _context = new PubContext();
 
 //QueryFilters();
 //FindIt();
-
 //AddSomeMoreAuthors();
 //SkipAndTakeAuthors();
-
 //SortAuthors();
+//QueryAggregate();
+//InsertAuthor();
+//RetrieveAndUpdateAuthor();
+//RetrieveAndUpdateMultipleAuthors();
+//VariousOperations();
+//CoordinatedRetrieveAndUpdateAuthor();
+//DeleteAnAuthor();
+//InsertMultipleAuthors();
+//InsertMultipleAuthors2();
+BulkAddUpdate();
 
-QueryAggregate();
+void BulkAddUpdate()
+{
+    var newAuthors = new Author[]
+    {
+        new Author{ FirstName = "Tsitsi", LastName = "Dangarembga" },
+        new Author{ FirstName = "Lisa", LastName = "See" },
+        new Author{ FirstName = "Zhang", LastName = "Ling" },
+        new Author{ FirstName = "Marilynne", LastName = "Robinson" }
+    };
+
+    _context.Authors.AddRange(newAuthors);
+    var book = _context.Books.Find(2);
+    book.Title = "Programming Entity Framework 2nd Edition";
+    _context.SaveChanges();
+}
+
+void InsertMultipleAuthorsPassedIn(List<Author> listOfAuthors)
+{
+    _context.Authors.AddRange(listOfAuthors);
+    _context.SaveChanges();
+}
+
+void InsertMultipleAuthors2()
+{
+    var authorList = new Author[]{
+        new Author { FirstName = "Ruth", LastName = "Ozeki" },
+        new Author { FirstName = "Sofia", LastName = "Segovia" },
+        new Author { FirstName = "Ursula", LastName = "LeGuin" },
+        new Author { FirstName = "Hugh", LastName = "Howey" },
+        new Author { FirstName = "Isabelle", LastName = "Allende" }
+    };
+
+    _context.AddRange(authorList);
+    _context.SaveChanges();
+}
+
+// AddRange example
+void InsertMultipleAuthors()
+{
+    _context.Authors.AddRange(new Author { FirstName = "Ruth", LastName = "Ozeki" },
+                              new Author { FirstName = "Sofia", LastName = "Segovia" },
+                              new Author { FirstName = "Ursula", LastName = "LeGuin" },
+                              new Author { FirstName = "Hugh", LastName = "Howey" },
+                              new Author { FirstName = "Isabelle", LastName = "Allende"});    
+    _context.SaveChanges();
+}
+
+void DeleteAnAuthor()
+{
+    var extraJL = _context.Authors.Find(1);
+    if (extraJL != null)
+    {
+        _context.Authors.Remove(extraJL);   // Remove method triggers the state of the author to changed
+        _context.SaveChanges();
+    }
+}
+
+void CoordinatedRetrieveAndUpdateAuthor()
+{
+    var author = FindThatAuthor(3); // nothing is tracking the changes to the author because a using statement was used in the SaveThatAuthor method!
+    if (author?.FirstName == "Julie")
+    {
+        author.FirstName = "Julia";
+        SaveThatAuthor(author);
+    }
+}
+
+void SaveThatAuthor(Author author)
+{
+    using var anotherShortLivedContext = new PubContext();  // This PubContext instance knows nothing about the history of the parameter author object!
+
+    // Every field in the author object is updated, because it doesn't know about the history of the object, no changetracker.
+    anotherShortLivedContext.Authors.Update(author);    // Update statement sets the state of the author object to modified.
+    anotherShortLivedContext.SaveChanges();
+}
+
+Author FindThatAuthor(int authorId)
+{
+    using var shortLivedContext = new PubContext(); // PubContext() is shortlived, gets disposed because of the using statement.
+    return shortLivedContext.Authors.Find(authorId);
+}
+
+void VariousOperations()
+{
+    var author = _context.Authors.Find(2); // this is currently Josie Newf
+    author.LastName = "Newfoundland";
+    var newauthor = new Author { LastName = "Appleman", FirstName = "Dan" };
+    _context.Authors.Add(newauthor);
+    _context.SaveChanges();
+}
+
+void RetrieveAndUpdateMultipleAuthors()
+{
+    var LermanAuthors = _context.Authors.Where(a => a.LastName == "Lehrman").ToList();
+    foreach (var la in LermanAuthors)
+    {
+        la.LastName = "Lerman";
+    }
+
+    Console.WriteLine("Before" + _context.ChangeTracker.DebugView.ShortView);
+    _context.ChangeTracker.DetectChanges();
+    Console.WriteLine("After" + _context.ChangeTracker.DebugView.ShortView);
+
+    _context.SaveChanges();
+}
+
+void RetrieveAndUpdateAuthor()
+{
+    var author = _context.Authors.FirstOrDefault(a => a.FirstName == "Julie" && a.LastName == "Lerman");
+    if (author != null)
+    {
+        author.FirstName = "Julia";
+        _context.SaveChanges();
+    }
+}
+
+// Inserting an Author object directly using DbContext, and not declaring the object (ex. var author = _context.Authors.Add( new Author ...);
+void InsertAuthor()
+{
+    var author = new Author { FirstName = "Frank", LastName = "Herbert" };
+    _context.Authors.Add(author);
+    _context.SaveChanges();
+}
 
 void QueryAggregate()
 {
@@ -96,7 +226,7 @@ void QueryFilters()
         .Where(a => EF.Functions.Like(a.LastName, filter)).ToList();
 }
 
-GetAuthors();
+//GetAuthors();
 //AddAuthor();
 ////GetAuthors();
 //AddAuthorWithBook();
