@@ -1,0 +1,7 @@
+FUNC __main__.create_big_list 22.6250 1712940064.5370 98.9258 1712940064.5524 0
+FUNC __main__.create_huge_list 22.6289 1712940064.5722 251.5117 1712940064.6257 0
+CMDLINE c:\Users\shaff\OneDrive\Documents\GitHub\home\python3performance\.venv\Scripts\python.exe memory_intensive.py
+MEM 1.714844 1712940064.3252
+MEM 3.414062 1712940064.4256
+MEM 3.414062 1712940064.5263
+MEM 3.414062 1712940064.6267
